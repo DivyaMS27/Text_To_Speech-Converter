@@ -1,4 +1,4 @@
-Text_To_Speech-Converter
+TEXT-TO-SPEECH CONVERTER:
 A lightweight website to convert text into speech using HTML,CSS,JavaScript.
 
 FEATURES:

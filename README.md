@@ -6,7 +6,7 @@ FEATURES:
 -Pause and resume audio playback
 -Works with the browser's built-in Web API
 
-WEBSITE LINK:
+WEBSITE LINK: https://divyams27.github.io/Text_To_Speech-Converter/
 
 TECHNOLOGY:
     HTML:Markup for the structure of website
